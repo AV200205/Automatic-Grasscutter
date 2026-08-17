@@ -277,7 +277,7 @@ Hence, the required design torque is approximately:
 
 ## Rack Mass
 
-Volume of rack:
+
 
 <img width="685" height="206" alt="image" src="https://github.com/user-attachments/assets/0de75f60-11f4-427d-85c1-2f7336546e49" />
 
@@ -285,53 +285,15 @@ Volume of rack:
 
 ## Rack Holder Mass
 
-Volume:
 
-$$
-V_{plate}
-=
-216\times15\times15
-$$
 
-$$
-V_{plate}=48600\ mm^3
-$$
+<img width="554" height="125" alt="image" src="https://github.com/user-attachments/assets/882d0efb-4dff-44dc-8691-f091c5312cdd" />
 
-$$
-V_{plate}=48.6\ cm^3
-$$
-
-Mass:
-
-$$
-m_{plate}
-=
-7.85\times48.6
-$$
-
-$$
-\boxed{m_{plate}\approx381.5\ g}
-$$
-
----
 
 ## Total Mass
 
-$$
-m_{total}
-=
-232.3+381.5
-$$
+<img width="544" height="90" alt="image" src="https://github.com/user-attachments/assets/a2efa8ae-9155-4eca-ab04-92b83ed2e1b8" />
 
-$$
-\boxed{m_{total}=613.8\ g}
-$$
-
-Converting to kilograms:
-
-$$
-m_{total}=0.6138\ kg
-$$
 
 ---
 
