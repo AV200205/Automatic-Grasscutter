@@ -279,33 +279,7 @@ Hence, the required design torque is approximately:
 
 Volume of rack:
 
-$$
-V_{rack}
-=
-12\times12\times207
-$$
-
-$$
-V_{rack}=29664\ mm^3
-$$
-
-Converting to cubic centimetres:
-
-$$
-V_{rack}=29.664\ cm^3
-$$
-
-Mass:
-
-$$
-m_{rack}
-=
-7.85\times29.664
-$$
-
-$$
-\boxed{m_{rack}\approx232.3\ g}
-$$
+<img width="685" height="206" alt="image" src="https://github.com/user-attachments/assets/0de75f60-11f4-427d-85c1-2f7336546e49" />
 
 ---
 
