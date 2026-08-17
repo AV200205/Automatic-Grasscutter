@@ -5,7 +5,7 @@ Designed a low-cost automated grass cutter using motors, wheels, worm gearing, r
 
 
 
- <p align="center"> # 🌱 Grass Cutter — TA212 Project
+  # 🌱 Grass Cutter — TA212 Project
 
 <p align="center">
   <img width="306" height="323" alt="image" src="https://github.com/user-attachments/assets/010e11d1-766d-49bd-8e23-d7b3170ce982" />
