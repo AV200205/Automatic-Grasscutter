@@ -5,7 +5,7 @@ Designed a low-cost automated grass cutter using motors, wheels, worm gearing, r
 
 
 
-            # 🌱 Grass Cutter — TA212 Project
+ <p align="center"> # 🌱 Grass Cutter — TA212 Project
 
 <p align="center">
   <img width="306" height="323" alt="image" src="https://github.com/user-attachments/assets/010e11d1-766d-49bd-8e23-d7b3170ce982" />
@@ -93,6 +93,7 @@ The assembly was designed to provide a compact structure while maintaining suffi
 
 ## 📐 Assembly
 
+
 ### Assembly Drawing
 
 <p align="center">
@@ -101,6 +102,8 @@ The assembly was designed to provide a compact structure while maintaining suffi
   <img width="306" height="225" alt="image" src="https://github.com/user-attachments/assets/be631f44-c971-4e1c-87d3-df7b876f7db8" />
     <p align="center">
   <img width="281" height="206" alt="image" src="https://github.com/user-attachments/assets/c121c279-8e8c-41bd-b5fd-2f86f274a564" />
+
+
 
 
 
