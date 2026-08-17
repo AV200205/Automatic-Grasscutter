@@ -97,19 +97,18 @@ The assembly was designed to provide a compact structure while maintaining suffi
 
 <p align="center">
   <img width="355" height="379" alt="image" src="https://github.com/user-attachments/assets/7d74626e-1533-458a-84fd-db008553ede0" />
+  <p align="center">
   <img width="306" height="225" alt="image" src="https://github.com/user-attachments/assets/be631f44-c971-4e1c-87d3-df7b876f7db8" />
+    <p align="center">
   <img width="281" height="206" alt="image" src="https://github.com/user-attachments/assets/c121c279-8e8c-41bd-b5fd-2f86f274a564" />
 
 
 
-  <img src="images/assembly-drawing.png" width="700">
-</p>
-
 ### Labeled Assembly
 
 <p align="center">
-  <img src="images/labeled-assembly.png" width="700">
-</p>
+ <img width="607" height="749" alt="image" src="https://github.com/user-attachments/assets/bbb912d2-02b8-4de9-83da-05314776f0ae" />
+
 
 ### Approximate Assembly Dimensions
 
